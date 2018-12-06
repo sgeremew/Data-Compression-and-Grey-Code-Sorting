@@ -1,0 +1,298 @@
+ 
+Ni's: [8, 5, 10, 4, 5, 5, 9, 7, 4, 8, 10, 7, 7, 6, 9, 7, 6, 9, 7, 3]
+
+Original File
+-----------------------------
+Full Score: 372800
+Binary Score: 159812
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 387277
+Full Score: 284407
+Binary Score: 121660
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 284407
+Binary Score: 121660
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200292
+Full Score: 284407
+Binary Score: 121660
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [7, 4, 2, 7, 9, 3, 2, 10, 8, 6, 7, 3, 4, 4, 6, 3, 8, 7, 7, 9]
+
+Original File
+-----------------------------
+Full Score: 299366
+Binary Score: 136389
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 508189
+Full Score: 203169
+Binary Score: 98684
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 203169
+Binary Score: 98684
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200252
+Full Score: 203169
+Binary Score: 98684
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [10, 4, 3, 6, 2, 6, 7, 8, 9, 4, 5, 8, 10, 3, 7, 8, 6, 6, 3, 2]
+
+Original File
+-----------------------------
+Full Score: 301964
+Binary Score: 136529
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 471800
+Full Score: 213267
+Binary Score: 97840
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 213267
+Binary Score: 97840
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200254
+Full Score: 213267
+Binary Score: 97840
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [3, 10, 10, 3, 5, 10, 4, 5, 3, 4, 10, 6, 8, 8, 8, 4, 6, 5, 3, 7]
+
+Original File
+-----------------------------
+Full Score: 323005
+Binary Score: 148200
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 439340
+Full Score: 222421
+Binary Score: 111357
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 222421
+Binary Score: 111357
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200264
+Full Score: 222421
+Binary Score: 111357
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [3, 5, 10, 3, 9, 4, 10, 7, 6, 10, 3, 6, 6, 9, 3, 8, 10, 6, 6, 10]
+
+Original File
+-----------------------------
+Full Score: 364664
+Binary Score: 152891
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 482444
+Full Score: 270918
+Binary Score: 113516
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 270918
+Binary Score: 113516
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200288
+Full Score: 270918
+Binary Score: 113516
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [5, 8, 10, 8, 4, 2, 4, 7, 8, 10, 7, 4, 9, 3, 5, 5, 3, 2, 5, 9]
+
+Original File
+-----------------------------
+Full Score: 304776
+Binary Score: 137481
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 387736
+Full Score: 212555
+Binary Score: 101505
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 212555
+Binary Score: 101505
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200256
+Full Score: 212555
+Binary Score: 101505
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [9, 5, 10, 7, 4, 5, 3, 9, 2, 9, 3, 7, 5, 7, 5, 5, 6, 9, 5, 4]
+
+Original File
+-----------------------------
+Full Score: 313065
+Binary Score: 145325
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 367112
+Full Score: 218208
+Binary Score: 109312
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 218208
+Binary Score: 109312
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200258
+Full Score: 218208
+Binary Score: 109312
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [8, 10, 5, 8, 2, 2, 4, 9, 8, 2, 4, 3, 5, 2, 9, 2, 10, 6, 5, 7]
+
+Original File
+-----------------------------
+Full Score: 277048
+Binary Score: 118424
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 393918
+Full Score: 179629
+Binary Score: 82390
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 179629
+Binary Score: 82390
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200242
+Full Score: 179629
+Binary Score: 82390
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [3, 5, 8, 5, 4, 2, 8, 9, 9, 4, 3, 3, 2, 4, 3, 2, 6, 3, 9, 10]
+
+Original File
+-----------------------------
+Full Score: 244921
+Binary Score: 119819
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 512612
+Full Score: 161331
+Binary Score: 80135
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 161331
+Binary Score: 80135
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200224
+Full Score: 161331
+Binary Score: 80135
+
+
+Samuels-MBP:Projects samuelgeremew$ python3 program.py 
+Ni's: [4, 3, 5, 5, 6, 7, 6, 9, 4, 3, 8, 10, 3, 10, 8, 4, 5, 10, 9, 8]
+
+Original File
+-----------------------------
+Full Score: 340566
+Binary Score: 151699
+
+
+greyOrder Sorted File
+-----------------------------
+Number of loops: 516323
+Full Score: 262146
+Binary Score: 109751
+
+
+Horner’s Ranking Sorted File
+-----------------------------
+Number of loops: 210000
+Full Score: 262146
+Binary Score: 109751
+
+
+Radix Sorted File
+-----------------------------
+Number of loops: 200274
+Full Score: 262146
+Binary Score: 109751
